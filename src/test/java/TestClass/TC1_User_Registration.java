@@ -27,7 +27,7 @@ public class TC1_User_Registration {
 	public void Registration()  {
 		obj.enterName("Gaurav", "L");
 		obj.enterCityAddressStateZip("pune", "l road", "Maharashtra", "112");
-		obj.phoneNoUsernameSSN("8888888888", "234", "Gauravk");
+		obj.phoneNoUsernameSSN("8888888888", "234", "Gaurasvk");
 		obj.enterPassword("Gaurav@123", "Gaurav@123");
 	
 		obj.clickRegister();
@@ -38,8 +38,8 @@ public class TC1_User_Registration {
 	}
 	
 	@AfterClass
-	public void close() {
-		
+	public void close() throws InterruptedException {
+		//Thread.sleep(3000);
 	}
 	
 }

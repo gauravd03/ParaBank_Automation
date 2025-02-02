@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-01T21:29:02 IST" name="Default suite" finished-at="2025-02-01T21:29:10 IST" duration-ms="8321">
+  <suite started-at="2025-02-02T13:57:15 IST" name="Default suite" finished-at="2025-02-02T13:57:25 IST" duration-ms="10041">
     <groups>
     </groups>
-    <test started-at="2025-02-01T21:29:02 IST" name="Default test" finished-at="2025-02-01T21:29:10 IST" duration-ms="8321">
+    <test started-at="2025-02-02T13:57:15 IST" name="Default test" finished-at="2025-02-02T13:57:25 IST" duration-ms="10041">
       <class name="TestClass.TC1_User_Registration">
-        <test-method is-config="true" signature="setup()[pri:0, instance:TestClass.TC1_User_Registration@f78a47e]" started-at="2025-02-01T21:29:02 IST" name="setup" finished-at="2025-02-01T21:29:09 IST" duration-ms="7012" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClass.TC1_User_Registration@644baf4a]" started-at="2025-02-02T13:57:15 IST" name="setup" finished-at="2025-02-02T13:57:21 IST" duration-ms="5679" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Registration()[pri:0, instance:TestClass.TC1_User_Registration@f78a47e]" started-at="2025-02-01T21:29:09 IST" name="Registration" finished-at="2025-02-01T21:29:10 IST" duration-ms="1273" status="PASS">
+        <test-method signature="Registration()[pri:0, instance:TestClass.TC1_User_Registration@644baf4a]" started-at="2025-02-02T13:57:21 IST" name="Registration" finished-at="2025-02-02T13:57:22 IST" duration-ms="1322" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Registration -->
-        <test-method is-config="true" signature="close()[pri:0, instance:TestClass.TC1_User_Registration@f78a47e]" started-at="2025-02-01T21:29:10 IST" name="close" finished-at="2025-02-01T21:29:10 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:TestClass.TC1_User_Registration@644baf4a]" started-at="2025-02-02T13:57:22 IST" name="close" finished-at="2025-02-02T13:57:25 IST" duration-ms="3003" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
