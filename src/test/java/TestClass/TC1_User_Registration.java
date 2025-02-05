@@ -39,7 +39,7 @@ public class TC1_User_Registration {
 	
 	@AfterClass
 	public void close() throws InterruptedException {
-		//Thread.sleep(3000);
+		Thread.sleep(3000);
 	}
 	
 }

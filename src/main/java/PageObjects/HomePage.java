@@ -21,6 +21,8 @@ public class HomePage {
 
 	@FindBy (linkText ="Transfer Funds")
 	WebElement transferFund;
+	@FindBy (linkText ="Transfer Funds")
+	WebElement tmep ;
 	
 	public void clickCreateNewAc() {
 		openNewAc.click();
