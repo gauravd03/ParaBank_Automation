@@ -83,6 +83,7 @@ public class RegisterPage {
 		RehisterButton.click();
 	}
 	
+	//Return success message 
 	public String getSuccessMsg() {
 		return successMessage.getText();
 	}
